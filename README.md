@@ -1,4 +1,13 @@
-### Hi there 👋
+<div align="center">
+<h1>Nicholas Gray</h1>
+<h3>Machine Learning and Computer Vision Develoepr</h3>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/nicholascgray/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **NicholasCG/NicholasCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
